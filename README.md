@@ -1,7 +1,7 @@
 # Sudoku_GUI_Solver
 
 
-A very basic GUI used for sudoku puzzle.
+A basic GUI used for sudoku puzzle.
 
 ## Controls -
 
